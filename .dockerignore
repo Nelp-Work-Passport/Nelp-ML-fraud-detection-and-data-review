@@ -1,0 +1,10 @@
+tests/
+data/
+archive_v1/
+__pycache__/
+.pytest_cache/
+.env
+*.joblib
+*.ipynb
+review_fraud_xgb.py
+train_colab.py
